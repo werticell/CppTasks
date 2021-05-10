@@ -7,4 +7,4 @@ Cpp Tasks
 2. [BigInteger+Rational](./BigInteger:Rational/README.md)
 3. [Geometry](./Geometry/README.md)
 4. [List+Iterators](./List+iterators/README.md)
-5. [Tuple](./Tuple/README.md) (не сделано)
+5. [Tuple](./Tuple/README.md) (TODO)
